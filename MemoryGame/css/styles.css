@@ -32,6 +32,11 @@ footer{
 a:hover{
 	background-color: #ee5f3c;
 }
+img {
+	height: 175px;
+	width: 125px;
+	margin: 8%
+}
 
 .board {
 	height: 50%;
